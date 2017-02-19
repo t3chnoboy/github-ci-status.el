@@ -30,6 +30,9 @@ For spacemacs:
 
 screenshots
 -----------
-<img src="screenshots/successful.png" width="200px">
-<img src="screenshots/failed.png" width="200px">
-<img src="screenshots/pending.png" width="200px">
+successful:  
+<img src="screenshots/successful.png" width="350px">  
+failed:  
+<img src="screenshots/failed.png" width="350px">  
+pending:  
+<img src="screenshots/pending.png" width="350px">  
