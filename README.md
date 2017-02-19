@@ -30,5 +30,6 @@ For spacemacs:
 
 screenshots
 -----------
-![fail](http://i.imgur.com/3VRqq5R.png)
-![success](http://i.imgur.com/tBOFTe0.png)
+<img src="screenshots/successful.png" width="200px">
+<img src="screenshots/failed.png" width="200px">
+<img src="screenshots/pending.png" width="200px">
